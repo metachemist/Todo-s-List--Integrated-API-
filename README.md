@@ -2,6 +2,12 @@
 
 This is a simple and intuitive To-Do List application built using the Angular framework. The app helps you manage your tasks efficiently by allowing you to add, edit, delete, and set due dates for each to-do item.
 
+##Features
+
+-**Add New Tasks:** Easily add new tasks with a title and optional due date.
+-**Edit Tasks:** Modify existing tasks, including updating the title or changing the due date.
+-**Delete Tasks:** Remove tasks from your to-do list when they are no longer needed.
+-**Set Due Dates:** Assign a due date to each task to keep track of deadlines.
 
 ## Development server
 
