@@ -1,6 +1,7 @@
-# Restapi
+# Todo's List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+This is a simple and intuitive To-Do List application built using the Angular framework. The app helps you manage your tasks efficiently by allowing you to add, edit, delete, and set due dates for each to-do item.
+
 
 ## Development server
 
