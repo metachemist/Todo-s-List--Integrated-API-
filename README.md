@@ -1,6 +1,29 @@
-# Restapi
+# Todo's List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+This is a simple and intuitive To-Do List application built using the Angular framework. The app helps you manage your tasks efficiently by allowing you to add, edit, delete, and set due dates for each to-do item.
+
+## Features
+
+📌 **Add New Tasks:** Easily add new tasks with a title and optional due date.
+
+✒️ **Edit Tasks:** Modify existing tasks, including updating the title or changing the due date.
+
+ ❌ **Delete Tasks:** Remove tasks from your to-do list when they are no longer needed.
+
+ 🎯 **Set Due Dates:** Assign a due date to each task to keep track of deadlines.
+
+## Technologies Used
+- **Angular Framework:** The app is built using Angular for component-based development and efficient user interface handling.
+
+- **TypeScript:** For writing clean, readable, and scalable code.
+
+- **HTML & CSS:**  For designing the layout and user interface of the application
+
+## Future Improvements
+- **Priority Levels:** Ability to assign priority levels to tasks (high, medium, low).
+- **Search and Filter:** Search for tasks and filter by status (completed, pending).
+- **Notifications:** Notify users when a task is approaching its due date.
+
 
 ## Development server
 
